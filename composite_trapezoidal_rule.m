@@ -1,4 +1,4 @@
-% Composite Trapezoid rule for approximations for definite integrals.
+% Composite Trapezoidal rule for approximations for definite integrals.
 
 % Inputs
 f_input = input("Enter the function f in the form of 'f' here:");
